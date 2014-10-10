@@ -1,0 +1,11 @@
+{
+  "name": "imagesnap",
+  "version": "0.0.1",
+  "description": "Take a photo from iSight (or another webcams).",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "ikr7",
+  "license": "WTFPL"
+}
